@@ -15,7 +15,7 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
   gem.version       = Enumerize::VERSION
   
-  gem.required_ruby_version = '>= 1.9.3'
+  #gem.required_ruby_version = '>= 1.9.3'
 
   gem.add_dependency('activesupport', '>= 3.2')
 end
